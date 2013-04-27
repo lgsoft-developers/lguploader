@@ -16,12 +16,12 @@ unix:UI_DIR = ./ui
 win32:UI_DIR = ui
 CONFIG += qsqlmysql
 
-LIBS += d:/Projects/QtProjects/LgUploader/lib/libdjvulibre.lib \
-    d:/Projects/QtProjects/LgUploader/lib/libchmfile.lib \
-    d:/Projects/QtProjects/LgUploader/lib/ChmLib.lib \
-    d:/Projects/QtProjects/LgUploader/lib/libpoppler.lib \
-    d:/Projects/QtProjects/LgUploader/lib/libpoppler.lib \
-    d:/Projects/QtProjects/LgUploader/lib/libpoppler-qt4.lib
+LIBS += d:/Proj/LG/SVN/LGUploader/lib/libdjvulibre.lib \
+    d:/Proj/LG/SVN/LGUploader/lib/libchmfile.lib \
+    d:/Proj/LG/SVN/LGUploader/lib/ChmLib.lib \
+    d:/Proj/LG/SVN/LGUploader/lib/libpoppler.lib \
+    d:/Proj/LG/SVN/LGUploader/lib/libpoppler.lib \
+    d:/Proj/LG/SVN/LGUploader/lib/libpoppler-qt4.lib
 INCLUDEPATH += include
 RC_FILE = resources/icon.rc
 

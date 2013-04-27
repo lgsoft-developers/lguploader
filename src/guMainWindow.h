@@ -6,7 +6,7 @@
 #include <QtNetwork>                //Модуль сетевого взаимодействия
 #include <QtSql>                    //Модуль работы с базами данных
 
-#include "qtsoap/qtsoap.h"
+//#include "qtsoap/qtsoap.h"
 //заголовочные файлы программы
 #include "guFolderInspector.h" //код поиска книг, извлечения идентификаторов вынесенный в поток
 #include "dataStructures.h"    //структуры данных для хранения информации о книгах
@@ -67,7 +67,7 @@ private:
     QNetworkProxy applicationProxy;    //прокси для всего приложения
 
     //SOAP (задел на случай использования soap)
-    QtSoapHttpTransport soap;
+    //QtSoapHttpTransport soap;
     //ПРОВЕРКА НА ДУБЛИКАТЫ
     //2. Проверка посредством HTTP запросов
     QNetworkAccessManager *httpCheckDublicatesManager;      //проверка на дубликаты через HTTP

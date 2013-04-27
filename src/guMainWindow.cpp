@@ -164,7 +164,7 @@ guMainWindow::guMainWindow(QWidget *parent) :
     connect(ui->listWidgetISBNs, SIGNAL(itemClicked(QListWidgetItem*)), this, SLOT(onIsbnsListItemActivated()));
     connect(ui->toolButtonAddIsbn, SIGNAL(clicked()), this, SLOT(onAddIsbn()));
     connect(ui->toolButtonRemoveIsbn, SIGNAL(clicked()), this, SLOT(onRemoveIsbn()));
-    connect(&soap, SIGNAL(responseReady()), this, SLOT(onGetSoapResponse()));
+    //connect(&soap, SIGNAL(responseReady()), this, SLOT(onGetSoapResponse()));
     //TEST
     coverScene = new QGraphicsScene(this);
     graphicsView = new GraphicsViewEx(coverScene);
@@ -199,35 +199,35 @@ guMainWindow::guMainWindow(QWidget *parent) :
 }
 void guMainWindow::testWebService()
 {
-    QtSoapMessage request;
+    //QtSoapMessage request;
 
        // Set the method and add one argument.
-       request.setMethod("getPeopleByFirstLastName", "urn:ExampleAPI");
-       request.addMethodArgument("first", "first", "j*");
-       request.addMethodArgument("last", "first", "*");
-       qDebug() << request.toXmlString(1);
+       //request.setMethod("getPeopleByFirstLastName", "urn:ExampleAPI");
+       //request.addMethodArgument("first", "first", "j*");
+       //request.addMethodArgument("last", "first", "*");
+       //qDebug() << request.toXmlString(1);
        // Submit the request the the web service.
-       soap.setHost("free-books.dontexist.org");
+       //soap.setHost("free-books.dontexist.org");
        //soap.setAction("http://www.abundanttech.com/WebServices/Population/getPeopleByFirstLastName");
-       soap.submitRequest(request, "webService.php");
+       //soap.submitRequest(request, "webService.php");
 
 
     //'http://free-books.dontexist.org/lgws.wsdl'
 }
 void guMainWindow::onGetSoapResponse()
 {
-    const QtSoapMessage &message = soap.getResponse();
-    qDebug() << "error" << message.toXmlString(1);
+    //const QtSoapMessage &message = soap.getResponse();
+    //qDebug() << "error" << message.toXmlString(1);
 
         // Check if the response is a SOAP Fault message
-        if (message.isFault()) {
-            qDebug("Error: %s", message.faultString().value().toString().toLatin1().constData());
-        }
-        else {
+        //if (message.isFault()) {
+          //  qDebug("Error: %s", message.faultString().value().toString().toLatin1().constData());
+        //}
+        //else {
             // Get the return value, and print the result.
-            const QtSoapType &response = message.returnValue();
-            qDebug() << " first " << response["first"].value().toString() << " last "<< response["last"].value().toString();
-        }
+          //  const QtSoapType &response = message.returnValue();
+            //qDebug() << " first " << response["first"].value().toString() << " last "<< response["last"].value().toString();
+        //}
 
 }
 
