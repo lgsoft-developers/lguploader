@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>apply_16.png</file>
+        <file>cancel_16.png</file>
+        <file>linguist-phrasebookopen.png</file>
+        <file>add.png</file>
+        <file>textanchor.png</file>
+        <file>list_remove_22.png</file>
+        <file>add_22.png</file>
+        <file>fileopen.png</file>
+        <file>download.png</file>
+        <file>svn-commit.png</file>
+        <file>harddrive-32.png</file>
+        <file>dialog-ok-apply.png</file>
+        <file>checkbox.png</file>
+        <file>research_256.png</file>
+        <file>commit_128.png</file>
+        <file>dublicate.png</file>
+        <file>uploaded.png</file>
+        <file>with_isbn.png</file>
+        <file>with_with_biblio.png</file>
+        <file>find_ebook.png</file>
+        <file>abort_find.png</file>
+        <file>info.png</file>
+        <file>configure.png</file>
+        <file>db_status.png</file>
+        <file>help.png</file>
+        <file>Dinosaur.png</file>
+        <file>back.png</file>
+        <file>down.png</file>
+        <file>forward.png</file>
+        <file>up.png</file>
+        <file>book_blue_find.png</file>
+        <file>book_blue_view.png</file>
+        <file>book_green.png</file>
+        <file>book_open.png</file>
+        <file>book_red.png</file>
+        <file>book_yellow.png</file>
+        <file>books_preferences.png</file>
+        <file>clipboard.png</file>
+        <file>no_cover.jpg</file>
+        <file>document-save-all.png</file>
+    </qresource>
+    <qresource prefix="/sql">
+        <file>sql/createDb.sql</file>
+    </qresource>
+    <qresource prefix="/file_types">
+        <file>file_types/djvu_22.png</file>
+        <file>file_types/pdf_22.png</file>
+        <file>file_types/unknown_file_22.png</file>
+        <file>file_types/help-contents.png</file>
+    </qresource>
+</RCC>
