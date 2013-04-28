@@ -1,0 +1,543 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">LgUploader.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">LgUploader</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">ANSYS130_DIR=d:\Program Files\ANSYS Inc\v130\ANSYS</value>
+    <value type="QString">ANSYS140_DIR=d:\Program Files\ANSYS Inc\v140\ANSYS</value>
+    <value type="QString">ANSYSLIC_DIR=C:\Program Files\ANSYS Inc\Shared Files\Licensing</value>
+    <value type="QString">ANSYS_SYSDIR=winx64</value>
+    <value type="QString">ANSYS_SYSDIR32=win32</value>
+    <value type="QString">APPDATA=C:\Users\User\AppData\Roaming</value>
+    <value type="QString">APR_ICONV_PATH=D:\Program Files (x86)\Subversion\iconv</value>
+    <value type="QString">AWP_LOCALE130=en-us</value>
+    <value type="QString">AWP_LOCALE140=en-us</value>
+    <value type="QString">AWP_ROOT130=d:\Program Files\ANSYS Inc\v130</value>
+    <value type="QString">AWP_ROOT140=d:\Program Files\ANSYS Inc\v140</value>
+    <value type="QString">CADOE_DOCDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_DOCDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_LIBDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\Language\en-us</value>
+    <value type="QString">CADOE_LIBDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\Language\en-us</value>
+    <value type="QString">COMMANDER_DRIVE=C:</value>
+    <value type="QString">COMMANDER_INI=C:\Total Commander\wincmd.ini</value>
+    <value type="QString">COMMANDER_PATH=C:\Total Commander</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=USER-TOSH</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\User</value>
+    <value type="QString">ICEMCFD_ROOT130=d:\Program Files\ANSYS Inc\v130\icemcfd</value>
+    <value type="QString">ICEMCFD_ROOT140=d:\Program Files\ANSYS Inc\v140\icemcfd</value>
+    <value type="QString">ICEMCFD_SYSDIR=win64_amd</value>
+    <value type="QString">INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\include\</value>
+    <value type="QString">LANG=Russian</value>
+    <value type="QString">LIB=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\Lib\</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\User\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\USER-TOSH</value>
+    <value type="QString">LSTC_LICENSE=ANSYS</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=D:\Apps\Qt\qtcreator-1.3.0\mingw\bin;d:\Apps\Qt\4.6.2\bin;C:\Program Files (x86)\Python26\;C:\Program Files (x86)\PC Connectivity Solution\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\x64\;D:\Program Files\Aladdin\eToken\PKIClient\x64;D:\Program Files\Aladdin\eToken\PKIClient\x32;D:\Program Files (x86)\Subversion\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files\TortoiseGit\bin;D:\ProgramFiles\proeWildfire\bin;D:\ProgramFiles\proeWildfire\mech\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.py;.pyw</value>
+    <value type="QString">PGLOCALEDIR=C:\Program Files (x86)\PostgreSQL\8.4.3-3.1C\share\locale</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=AMD64 Family 16 Model 6 Stepping 2, AuthenticAMD</value>
+    <value type="QString">PROCESSOR_LEVEL=16</value>
+    <value type="QString">PROCESSOR_REVISION=0602</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">PVX_INSTALL_DIR=C:\Program Files\ProductViewExpress\</value>
+    <value type="QString">P_SCHEMA=d:\Program Files\ANSYS Inc\v140\AISOL\CADIntegration\Parasolid\PSchema</value>
+    <value type="QString">QTDIR=d:/Apps/Qt/4.6.2</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=User-TOSH</value>
+    <value type="QString">USERNAME=User</value>
+    <value type="QString">USERPROFILE=C:\Users\User</value>
+    <value type="QString">VS71COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">D:/Proj/LG/GIT/Test_GIT/LgUploader.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">d:/apps/qt/4.6.2/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/Proj/LG/GIT/Test_GIT</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">ANSYS130_DIR=d:\Program Files\ANSYS Inc\v130\ANSYS</value>
+    <value type="QString">ANSYS140_DIR=d:\Program Files\ANSYS Inc\v140\ANSYS</value>
+    <value type="QString">ANSYSLIC_DIR=C:\Program Files\ANSYS Inc\Shared Files\Licensing</value>
+    <value type="QString">ANSYS_SYSDIR=winx64</value>
+    <value type="QString">ANSYS_SYSDIR32=win32</value>
+    <value type="QString">APPDATA=C:\Users\User\AppData\Roaming</value>
+    <value type="QString">APR_ICONV_PATH=D:\Program Files (x86)\Subversion\iconv</value>
+    <value type="QString">AWP_LOCALE130=en-us</value>
+    <value type="QString">AWP_LOCALE140=en-us</value>
+    <value type="QString">AWP_ROOT130=d:\Program Files\ANSYS Inc\v130</value>
+    <value type="QString">AWP_ROOT140=d:\Program Files\ANSYS Inc\v140</value>
+    <value type="QString">CADOE_DOCDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_DOCDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_LIBDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\Language\en-us</value>
+    <value type="QString">CADOE_LIBDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\Language\en-us</value>
+    <value type="QString">COMMANDER_DRIVE=C:</value>
+    <value type="QString">COMMANDER_INI=C:\Total Commander\wincmd.ini</value>
+    <value type="QString">COMMANDER_PATH=C:\Total Commander</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=USER-TOSH</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\User</value>
+    <value type="QString">ICEMCFD_ROOT130=d:\Program Files\ANSYS Inc\v130\icemcfd</value>
+    <value type="QString">ICEMCFD_ROOT140=d:\Program Files\ANSYS Inc\v140\icemcfd</value>
+    <value type="QString">ICEMCFD_SYSDIR=win64_amd</value>
+    <value type="QString">INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\include\</value>
+    <value type="QString">LANG=Russian</value>
+    <value type="QString">LIB=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\Lib\</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\User\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\USER-TOSH</value>
+    <value type="QString">LSTC_LICENSE=ANSYS</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=D:\Apps\Qt\qtcreator-1.3.0\mingw\bin;d:\Apps\Qt\4.6.2\bin;C:\Program Files (x86)\Python26\;C:\Program Files (x86)\PC Connectivity Solution\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\x64\;D:\Program Files\Aladdin\eToken\PKIClient\x64;D:\Program Files\Aladdin\eToken\PKIClient\x32;D:\Program Files (x86)\Subversion\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files\TortoiseGit\bin;D:\ProgramFiles\proeWildfire\bin;D:\ProgramFiles\proeWildfire\mech\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.py;.pyw</value>
+    <value type="QString">PGLOCALEDIR=C:\Program Files (x86)\PostgreSQL\8.4.3-3.1C\share\locale</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=AMD64 Family 16 Model 6 Stepping 2, AuthenticAMD</value>
+    <value type="QString">PROCESSOR_LEVEL=16</value>
+    <value type="QString">PROCESSOR_REVISION=0602</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">PVX_INSTALL_DIR=C:\Program Files\ProductViewExpress\</value>
+    <value type="QString">P_SCHEMA=d:\Program Files\ANSYS Inc\v140\AISOL\CADIntegration\Parasolid\PSchema</value>
+    <value type="QString">QTDIR=d:/Apps/Qt/4.6.2</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=User-TOSH</value>
+    <value type="QString">USERNAME=User</value>
+    <value type="QString">USERPROFILE=C:\Users\User</value>
+    <value type="QString">VS71COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">D:/Apps/Qt/qtcreator-1.3.0/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/Proj/LG/GIT/Test_GIT</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">ANSYS130_DIR=d:\Program Files\ANSYS Inc\v130\ANSYS</value>
+    <value type="QString">ANSYS140_DIR=d:\Program Files\ANSYS Inc\v140\ANSYS</value>
+    <value type="QString">ANSYSLIC_DIR=C:\Program Files\ANSYS Inc\Shared Files\Licensing</value>
+    <value type="QString">ANSYS_SYSDIR=winx64</value>
+    <value type="QString">ANSYS_SYSDIR32=win32</value>
+    <value type="QString">APPDATA=C:\Users\User\AppData\Roaming</value>
+    <value type="QString">APR_ICONV_PATH=D:\Program Files (x86)\Subversion\iconv</value>
+    <value type="QString">AWP_LOCALE130=en-us</value>
+    <value type="QString">AWP_LOCALE140=en-us</value>
+    <value type="QString">AWP_ROOT130=d:\Program Files\ANSYS Inc\v130</value>
+    <value type="QString">AWP_ROOT140=d:\Program Files\ANSYS Inc\v140</value>
+    <value type="QString">CADOE_DOCDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_DOCDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_LIBDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\Language\en-us</value>
+    <value type="QString">CADOE_LIBDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\Language\en-us</value>
+    <value type="QString">COMMANDER_DRIVE=C:</value>
+    <value type="QString">COMMANDER_INI=C:\Total Commander\wincmd.ini</value>
+    <value type="QString">COMMANDER_PATH=C:\Total Commander</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=USER-TOSH</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\User</value>
+    <value type="QString">ICEMCFD_ROOT130=d:\Program Files\ANSYS Inc\v130\icemcfd</value>
+    <value type="QString">ICEMCFD_ROOT140=d:\Program Files\ANSYS Inc\v140\icemcfd</value>
+    <value type="QString">ICEMCFD_SYSDIR=win64_amd</value>
+    <value type="QString">INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\include\</value>
+    <value type="QString">LANG=Russian</value>
+    <value type="QString">LIB=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\Lib\</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\User\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\USER-TOSH</value>
+    <value type="QString">LSTC_LICENSE=ANSYS</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=D:\Apps\Qt\qtcreator-1.3.0\mingw\bin;d:\Apps\Qt\4.6.2\bin;C:\Program Files (x86)\Python26\;C:\Program Files (x86)\PC Connectivity Solution\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\x64\;D:\Program Files\Aladdin\eToken\PKIClient\x64;D:\Program Files\Aladdin\eToken\PKIClient\x32;D:\Program Files (x86)\Subversion\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files\TortoiseGit\bin;D:\ProgramFiles\proeWildfire\bin;D:\ProgramFiles\proeWildfire\mech\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.py;.pyw</value>
+    <value type="QString">PGLOCALEDIR=C:\Program Files (x86)\PostgreSQL\8.4.3-3.1C\share\locale</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=AMD64 Family 16 Model 6 Stepping 2, AuthenticAMD</value>
+    <value type="QString">PROCESSOR_LEVEL=16</value>
+    <value type="QString">PROCESSOR_REVISION=0602</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">PVX_INSTALL_DIR=C:\Program Files\ProductViewExpress\</value>
+    <value type="QString">P_SCHEMA=d:\Program Files\ANSYS Inc\v140\AISOL\CADIntegration\Parasolid\PSchema</value>
+    <value type="QString">QTDIR=d:/Apps/Qt/4.6.2</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=User-TOSH</value>
+    <value type="QString">USERNAME=User</value>
+    <value type="QString">USERPROFILE=C:\Users\User</value>
+    <value type="QString">VS71COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">D:/Apps/Qt/qtcreator-1.3.0/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/Proj/LG/GIT/Test_GIT</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">ANSYS130_DIR=d:\Program Files\ANSYS Inc\v130\ANSYS</value>
+    <value type="QString">ANSYS140_DIR=d:\Program Files\ANSYS Inc\v140\ANSYS</value>
+    <value type="QString">ANSYSLIC_DIR=C:\Program Files\ANSYS Inc\Shared Files\Licensing</value>
+    <value type="QString">ANSYS_SYSDIR=winx64</value>
+    <value type="QString">ANSYS_SYSDIR32=win32</value>
+    <value type="QString">APPDATA=C:\Users\User\AppData\Roaming</value>
+    <value type="QString">APR_ICONV_PATH=D:\Program Files (x86)\Subversion\iconv</value>
+    <value type="QString">AWP_LOCALE130=en-us</value>
+    <value type="QString">AWP_LOCALE140=en-us</value>
+    <value type="QString">AWP_ROOT130=d:\Program Files\ANSYS Inc\v130</value>
+    <value type="QString">AWP_ROOT140=d:\Program Files\ANSYS Inc\v140</value>
+    <value type="QString">CADOE_DOCDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_DOCDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_LIBDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\Language\en-us</value>
+    <value type="QString">CADOE_LIBDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\Language\en-us</value>
+    <value type="QString">COMMANDER_DRIVE=C:</value>
+    <value type="QString">COMMANDER_INI=C:\Total Commander\wincmd.ini</value>
+    <value type="QString">COMMANDER_PATH=C:\Total Commander</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=USER-TOSH</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\User</value>
+    <value type="QString">ICEMCFD_ROOT130=d:\Program Files\ANSYS Inc\v130\icemcfd</value>
+    <value type="QString">ICEMCFD_ROOT140=d:\Program Files\ANSYS Inc\v140\icemcfd</value>
+    <value type="QString">ICEMCFD_SYSDIR=win64_amd</value>
+    <value type="QString">INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\include\</value>
+    <value type="QString">LANG=Russian</value>
+    <value type="QString">LIB=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\Lib\</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\User\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\USER-TOSH</value>
+    <value type="QString">LSTC_LICENSE=ANSYS</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=D:\Apps\Qt\qtcreator-1.3.0\mingw\bin;d:\Apps\Qt\4.6.2\bin;C:\Program Files (x86)\Python26\;C:\Program Files (x86)\PC Connectivity Solution\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\x64\;D:\Program Files\Aladdin\eToken\PKIClient\x64;D:\Program Files\Aladdin\eToken\PKIClient\x32;D:\Program Files (x86)\Subversion\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files\TortoiseGit\bin;D:\ProgramFiles\proeWildfire\bin;D:\ProgramFiles\proeWildfire\mech\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.py;.pyw</value>
+    <value type="QString">PGLOCALEDIR=C:\Program Files (x86)\PostgreSQL\8.4.3-3.1C\share\locale</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=AMD64 Family 16 Model 6 Stepping 2, AuthenticAMD</value>
+    <value type="QString">PROCESSOR_LEVEL=16</value>
+    <value type="QString">PROCESSOR_REVISION=0602</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">PVX_INSTALL_DIR=C:\Program Files\ProductViewExpress\</value>
+    <value type="QString">P_SCHEMA=d:\Program Files\ANSYS Inc\v140\AISOL\CADIntegration\Parasolid\PSchema</value>
+    <value type="QString">QTDIR=d:/Apps/Qt/4.6.2</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=User-TOSH</value>
+    <value type="QString">USERNAME=User</value>
+    <value type="QString">USERPROFILE=C:\Users\User</value>
+    <value type="QString">VS71COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">D:/Proj/LG/GIT/Test_GIT/LgUploader.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=release</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">d:/apps/qt/4.6.2/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/Proj/LG/GIT/Test_GIT</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">ANSYS130_DIR=d:\Program Files\ANSYS Inc\v130\ANSYS</value>
+    <value type="QString">ANSYS140_DIR=d:\Program Files\ANSYS Inc\v140\ANSYS</value>
+    <value type="QString">ANSYSLIC_DIR=C:\Program Files\ANSYS Inc\Shared Files\Licensing</value>
+    <value type="QString">ANSYS_SYSDIR=winx64</value>
+    <value type="QString">ANSYS_SYSDIR32=win32</value>
+    <value type="QString">APPDATA=C:\Users\User\AppData\Roaming</value>
+    <value type="QString">APR_ICONV_PATH=D:\Program Files (x86)\Subversion\iconv</value>
+    <value type="QString">AWP_LOCALE130=en-us</value>
+    <value type="QString">AWP_LOCALE140=en-us</value>
+    <value type="QString">AWP_ROOT130=d:\Program Files\ANSYS Inc\v130</value>
+    <value type="QString">AWP_ROOT140=d:\Program Files\ANSYS Inc\v140</value>
+    <value type="QString">CADOE_DOCDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_DOCDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\help\en-us\solviewer</value>
+    <value type="QString">CADOE_LIBDIR130=d:\Program Files\ANSYS Inc\v130\CommonFiles\Language\en-us</value>
+    <value type="QString">CADOE_LIBDIR140=d:\Program Files\ANSYS Inc\v140\CommonFiles\Language\en-us</value>
+    <value type="QString">COMMANDER_DRIVE=C:</value>
+    <value type="QString">COMMANDER_INI=C:\Total Commander\wincmd.ini</value>
+    <value type="QString">COMMANDER_PATH=C:\Total Commander</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=USER-TOSH</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\User</value>
+    <value type="QString">ICEMCFD_ROOT130=d:\Program Files\ANSYS Inc\v130\icemcfd</value>
+    <value type="QString">ICEMCFD_ROOT140=d:\Program Files\ANSYS Inc\v140\icemcfd</value>
+    <value type="QString">ICEMCFD_SYSDIR=win64_amd</value>
+    <value type="QString">INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\include\</value>
+    <value type="QString">LANG=Russian</value>
+    <value type="QString">LIB=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\SDK\v1.1\Lib\</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\User\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\USER-TOSH</value>
+    <value type="QString">LSTC_LICENSE=ANSYS</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=D:\Apps\Qt\qtcreator-1.3.0\mingw\bin;d:\Apps\Qt\4.6.2\bin;C:\Program Files (x86)\Python26\;C:\Program Files (x86)\PC Connectivity Solution\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\x64\;D:\Program Files\Aladdin\eToken\PKIClient\x64;D:\Program Files\Aladdin\eToken\PKIClient\x32;D:\Program Files (x86)\Subversion\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files\TortoiseGit\bin;D:\ProgramFiles\proeWildfire\bin;D:\ProgramFiles\proeWildfire\mech\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.py;.pyw</value>
+    <value type="QString">PGLOCALEDIR=C:\Program Files (x86)\PostgreSQL\8.4.3-3.1C\share\locale</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=AMD64 Family 16 Model 6 Stepping 2, AuthenticAMD</value>
+    <value type="QString">PROCESSOR_LEVEL=16</value>
+    <value type="QString">PROCESSOR_REVISION=0602</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">PVX_INSTALL_DIR=C:\Program Files\ProductViewExpress\</value>
+    <value type="QString">P_SCHEMA=d:\Program Files\ANSYS Inc\v140\AISOL\CADIntegration\Parasolid\PSchema</value>
+    <value type="QString">QTDIR=d:/Apps/Qt/4.6.2</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\User\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=User-TOSH</value>
+    <value type="QString">USERNAME=User</value>
+    <value type="QString">USERPROFILE=C:\Users\User</value>
+    <value type="QString">VS71COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio .NET 2003\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">D:/Apps/Qt/qtcreator-1.3.0/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/Proj/LG/GIT/Test_GIT</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

@@ -1433,11 +1433,14 @@ void guMainWindow::checkEbookDublicate(QString MD5)
 {
         QNetworkRequest *checkDublicateRequest;
         //QString checkUrl = "http://localhost/lgws/?md5="+ MD5;
-        QString checkUrl = serviceUrl + "/?md5=" + MD5;
+        QString checkUrl = serviceUrl + "/book/?md5=" + MD5;
         checkDublicateRequest = new QNetworkRequest(QUrl(checkUrl));
         checkDublicateRequest->setRawHeader("User-Agent","Libgen Uploader (beta)");
         checkDublicateRequest->setRawHeader("Connection","close");
+
         //log(checkDublicateRequest->url().toString() + "  requested");
+        qDebug() << (checkDublicateRequest->url().toString() + "  requested");
+
         QNetworkReply  *checkDublicateReply;
         MD52EbookMap[MD5].inLibCheckSended = true;
         checkDublicateReply = httpCheckDublicatesManager->get(*checkDublicateRequest);
@@ -1793,7 +1796,7 @@ void guMainWindow::processCheckDublicateReply(QNetworkReply* reply)
          msgBox.exec();
          //закрываем ответ, удаляем
          reply->close();
-         reply->deleteLater();
+          reply->deleteLater();
          return; //и выходим
     }
     qDebug() << "check responce" << doc.toString();
@@ -1910,7 +1913,8 @@ void guMainWindow::initBaseSettings()
 {
     QSettings settings(QSettings::IniFormat, QSettings::UserScope, "Irbis.Soft", "Library Genesis uploader (beta)");
 
-    serviceUrl = settings.value("serviceUrl", "http://free-books.dontexist.com/lgws").toString();
+    //serviceUrl = settings.value("serviceUrl", "http://free-books.dontexist.com/lgws").toString();
+    serviceUrl = settings.value("serviceUrl", "http://libgen.org/").toString();
     uploader->setServiceUrl(serviceUrl);
     uploader->setAuthInfo("genesis", "upload");
 
